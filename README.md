@@ -48,3 +48,5 @@ Dette repository indeholder en samling AutoLISP-scripts til brug i AutoCAD Plant
   En testversion af indsættelse af Revit-XREF med ekstra debug-udskrifter.
   Anvendes til fejlfinding og udvikling før endelig implementering.
 
+- **ValveCodeSelector.lsp**
+  Værktøj til at hente ventilkoder fra en SQLite-database og knytte dem til en valgt Plant 3D-asset.
